@@ -75,10 +75,146 @@
         "padding_top": 32,
         "padding_bottom": 36
       }
+    },
+    "rich_text_xKzRmN": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_m8XAa7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "text_n3pyLi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "button_dxWrcQ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_m8XAa7",
+        "text_n3pyLi",
+        "button_dxWrcQ"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multirow_Afh7pT": {
+      "type": "multirow",
+      "blocks": {
+        "row_LiQY9T": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/green-t-shirt_7ef6ba39-c83c-469f-832f-87bf2d3dedf2.jpg",
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_7GJ6b3": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/green-t-shirt_7ef6ba39-c83c-469f-832f-87bf2d3dedf2.jpg",
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_6hyAXT": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/green-t-shirt_7ef6ba39-c83c-469f-832f-87bf2d3dedf2.jpg",
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_LiQY9T",
+        "row_7GJ6b3",
+        "row_6hyAXT"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter_JCRcj3": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_ff8KjU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_btxMQn": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
+          }
+        },
+        "email_form_yeTBT6": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_ff8KjU",
+        "paragraph_btxMQn",
+        "email_form_yeTBT6"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "image-with-text",
-    "featured_collection"
+    "featured_collection",
+    "rich_text_xKzRmN",
+    "multirow_Afh7pT",
+    "newsletter_JCRcj3"
   ]
 }
