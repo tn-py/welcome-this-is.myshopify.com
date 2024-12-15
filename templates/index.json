@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Our latest",
+            "heading": "",
             "heading_size": "h0"
           }
         },
